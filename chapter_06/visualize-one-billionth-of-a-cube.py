@@ -1,3 +1,6 @@
+# You may need to install plotly and numpy using pip.
+# pip install numpy
+# pip install plotly
 import plotly.graph_objects as go
 import numpy as np
 

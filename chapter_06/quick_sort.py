@@ -4,7 +4,7 @@ def quick_sort(arr):
     if len(arr) <= 1:
         return arr
     
-    # Choose pivot (here, the last element)
+    # Choose pivot (here, the last element. Why not? :-))
     pivot = arr[-1]
     
     # Partition elements into three lists

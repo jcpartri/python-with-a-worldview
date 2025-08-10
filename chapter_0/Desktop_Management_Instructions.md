@@ -9,6 +9,7 @@ This guide provides step-by-step instructions for creating and navigating virtua
 - [macOS Instructions](#macos)
 - [Ubuntu Instructions](#linux-ubuntu)
 - [Mint Instructions](#linux-linux-mint)
+- [Tips for all Operating Systems](#tips-for-all-operating-systems)
 
 ---
 

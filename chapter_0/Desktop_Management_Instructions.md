@@ -2,6 +2,14 @@
 
 This guide provides step-by-step instructions for creating and navigating virtual desktops (also called workspaces) on Windows 11, Windows 10, macOS, and Linux (Ubuntu or Linux Mint). Virtual desktops help organize your workflow by allowing multiple desktop environments for different tasks.
 
+## Outline
+
+- [Windows 11 Instructions](#windows-11)
+- [Windows 10 Instrructions](#windows-10)
+- [macOS Instructions](#macos)
+- [Ubuntu Instructions](#linux-ubuntu)
+- [Mint Instructions](#linux-linux-mint)
+
 ---
 
 ## Windows 11

@@ -1,4 +1,4 @@
-# Python Multiple Choice Quiz
+# Chapter 2 Quiz A with Solutions
 
 This quiz contains 25 multiple choice questions for beginner to intermediate Python students, covering comparison operators, conditional statements, logical operators, lists, sets, list slicing, loops, range(), infinite loops, binary numbers, ASCII, data units, program scaffolding, specification sheets, and problem-solving. Each question has four answer choices. Select the correct option.
 
